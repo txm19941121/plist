@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>keng.tumujinhua.com/icon.ipa</string>
+					<string>keng.tumujinhua.com/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>keng.tumujinhua.com/icon.ip</string>
+					<string>keng.tumujinhua.com/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
