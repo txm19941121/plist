@@ -38,7 +38,7 @@ http://keng.tumujinhua.com/icon.png
 <key>metadata</key>
 <dict>
 <key>update-url</key>
-<string>8d/ios1.plist</string>
+<string>https://raw.githubusercontent.com/txm19941121/plist/master/ios1.plist</string>
 <key>bundle-identifier</key>
 <string>com.ustcinfo.zysb.AHhaoXian</string>
 <key>bundle-version</key>
